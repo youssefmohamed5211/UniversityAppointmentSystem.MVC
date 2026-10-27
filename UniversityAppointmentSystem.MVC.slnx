@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="UniversityAppointmentSystem.BLL/UniversityAppointmentSystem.BLL.csproj" />
+  <Project Path="UniversityAppointmentSystem.DAL/UniversityAppointmentSystem.DAL.csproj" />
+  <Project Path="UniversityAppointmentSystem.PL/UniversityAppointmentSystem.PL.csproj" />
+</Solution>
